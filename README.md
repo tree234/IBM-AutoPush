@@ -1,4 +1,6 @@
 # IBM-CF-AutoPush
+完全复制：
+https://github.com/syouko/IBM-CF-AutoPush
 
 使用它定期将最新的 V2Ray 部署至 IBM Cloud Foundry
 
